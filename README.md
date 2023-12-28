@@ -1,12 +1,7 @@
 
-
-# Demo 
-
-https://my-portfolio-swart-chi.vercel.app/
-
 # Project
 
-This project was bootstraped with:
+This project was created with:
 <p>
 NextJS 12 
 
